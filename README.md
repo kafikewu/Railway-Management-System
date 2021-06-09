@@ -1,2 +1,2 @@
 # Railway managment system
-A comprehensive managment system implemented with c++
+A complete managment system implemented with C++
